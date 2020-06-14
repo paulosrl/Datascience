@@ -18,6 +18,8 @@ Ph.d. at Electrical engineering - Applied Computing from Universidade Federal do
 **Links:**
 * [Blog](http://paulolima.net.br)
 * [LinkedIn](https://www.linkedin.com/in/paulo-lima-65a49117)
+* [Currículo Lattes] (http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4735350U2)
+* [Facebook] (https://www.facebook.com/profplima/)
 
 
 ## Projetos:
