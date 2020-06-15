@@ -9,7 +9,7 @@ Portfólio de Projeto em Data Science
 </p>
 
 # Paulo Lima
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*http://www.paulolima.net.br</sub>
 
 Ph.d. at Electrical engineering - Applied Computing from Universidade Federal do Pará - UFPA (2006). Master's at Computer Science from Universidade Federal do Rio Grande do Sul - UFRGS (2002). Specialization in Computer Networks from Universidade Federal do Pará - UFPA (1997). Graduate at Technologist in Data Processing from União de Ensino Superior do Pará - UNAMA (1992). Graduate at Bachelor of Computer Science from Universidade Federal do Pará - UFPA (1993).
 
