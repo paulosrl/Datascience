@@ -26,5 +26,5 @@ Meus Projetos:
 * 1: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul) usando o Google Colab com Python:
 https://colab.research.google.com/drive/1vrz_d1lqAXzOvwryMvEVcsOFHHIGow0j?usp=sharing
 
-* 2: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul) usando o Google Colab com Python:
+* 2: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul) com o <a href="https://www.knime.com">KNIME</a> Analytics
 https://github.com/paulosrl/Datascience/blob/master/Analise%20Exploratoria%20de%20Dados.knar
