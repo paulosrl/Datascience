@@ -20,8 +20,7 @@ Ph.d. at Electrical engineering - Applied Computing from Universidade Federal do
 * [Facebook] (https://www.facebook.com/profplima/)
 
 
-## Projetos:
-Meus Projetos:
+## Meus Projetos:
 
 * 1: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul) usando o Google Colab com Python:
 https://colab.research.google.com/drive/1vrz_d1lqAXzOvwryMvEVcsOFHHIGow0j?usp=sharing
