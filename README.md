@@ -25,7 +25,8 @@ Ph.d. at Electrical engineering - Applied Computing from Universidade Federal do
 ## Projetos:
 Meus Projetos:
 
-
+* 5: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul):
+https://colab.research.google.com/drive/1vrz_d1lqAXzOvwryMvEVcsOFHHIGow0j?usp=sharing
 
 ---
 
