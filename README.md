@@ -29,4 +29,4 @@ https://colab.research.google.com/drive/1vrz_d1lqAXzOvwryMvEVcsOFHHIGow0j?usp=sh
 https://github.com/paulosrl/Datascience/blob/master/Analise%20Exploratoria%20de%20Dados.knar
 
 * 3: Introdução à Análise Exploratória de Dados utilizando a biblioteca Pandas (usando o Google Colab com Pandas/Python):
-https://colab.research.google.com/drive/17Lkplvd5GPBn5QA49Ryi_qTUIMtZx1w1?usp=sharing
+https://colab.research.google.com/drive/1ZK1zqBeBeFJ315yizvAt5UQyc7TNI1yy?usp=sharing
