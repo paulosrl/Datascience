@@ -22,11 +22,14 @@ Ph.d. at Electrical engineering - Applied Computing from Universidade Federal do
 
 ## Meus Projetos:
 
-* 1: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul) (usando o Google Colab com Pandas/Python):
+* 1: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul) (usando o Google Colab):
 https://colab.research.google.com/drive/1vrz_d1lqAXzOvwryMvEVcsOFHHIGow0j?usp=sharing
 
 * 2: Analisando os Dados do Airbnb da Cidade de Cape Town (África do Sul) com o <a href="https://www.knime.com">KNIME</a> Analytics:
 https://github.com/paulosrl/Datascience/blob/master/Analise%20Exploratoria%20de%20Dados.knar
 
-* 3: Introdução à Análise Exploratória de Dados utilizando a biblioteca Pandas (usando o Google Colab com Pandas/Python):
+* 3: Introdução à Análise Exploratória de Dados utilizando a biblioteca Pandas (usando o Google Colab):
 https://colab.research.google.com/drive/1ZK1zqBeBeFJ315yizvAt5UQyc7TNI1yy?usp=sharing
+
+* 4: Analisando os dados da violência no Rio de Janeiro nos anos de 1991 a 2018 (usando o Google Colab):
+https://colab.research.google.com/drive/124uElbzk5aC3NI1tnV9ABkjug8M_TwMp#scrollTo=5sfffa9LVoxs&uniqifier=4
